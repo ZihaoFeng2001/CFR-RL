@@ -2,7 +2,7 @@ import os
 
 #tensorflow
 os.system("pip3 install --user --upgrade pip")
-os.system("pip3 install --user tensorflow")
+os.system("pip3 install --user tensorflow==2.2.0")
 
 #PuLP
 #os.system("sudo apt install glpk glpk-utils")
